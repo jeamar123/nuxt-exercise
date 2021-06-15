@@ -1,6 +1,7 @@
 <template>
   <div id="main-content" class="mx-auto">
     <JobSearch/>
+    
   </div>
 </template>
 
